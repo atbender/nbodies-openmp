@@ -1,0 +1,16 @@
+====================
+Processando simulação NBody....
+   Iteração 1 OK
+   Iteração 2 OK
+   Iteração 3 OK
+   Iteração 4 OK
+   Iteração 5 OK
+====================
+Simulação NBody executada com sucesso.
+Nro. de Partículas: 32768
+Nro. de Iterações: 5
+Nro. de Threads: 32
+Particle [32767]: X: 1018596160.000000 Y: 6615179264.000000 Z: 95132048.000000
+Tempo: 59.14109800 segundos
+====================
+
